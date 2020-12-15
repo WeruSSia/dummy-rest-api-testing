@@ -6,4 +6,4 @@
 
 * In order to generate allure report use:
 
-  `allure serve target/surefire-plugins/`
+  `allure serve target/surefire-reports/`
